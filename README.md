@@ -60,7 +60,7 @@ Specifications
 
 
 
-## BI: Analytics \& Reporting (Data Analysis)**
+## BI: Analytics \& Reporting (Data Analysis)
 
 
 
@@ -131,4 +131,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 **├── .gitignore                          # Files and directories to be ignored by Git**
 
 **└── requirements.txt                    # Dependencies and requirements for the project**
+
+##  About me 
+
+I am a passionate Computer Science student specializing in Artificial Intelligence and Data Science. With a solid foundation in SQL, Python, and Machine Learning
 
